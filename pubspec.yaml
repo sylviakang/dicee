@@ -1,0 +1,39 @@
+name: dicee
+description: A new Flutter application.
+
+
+publish_to: 'none'
+<<<<<<< HEAD
+=======
+
+>>>>>>> parent of 372410f (20210326)
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  integration_test:
+    sdk: flutter
+
+
+flutter:
+
+<<<<<<< HEAD
+  uses-material-design: true
+
+=======
+
+  uses-material-design: true
+
+>>>>>>> parent of 372410f (20210326)
+  assets:
+    - images/
